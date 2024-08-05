@@ -1,0 +1,19 @@
+Dado: Elemento que por si só não tem contexto
+Informação: Dados contextualizados
+
+Servidores: Computador com grande capacidade de processamento e armazenamento
+Distro: Versôes do Linux
+Debian
+KaliLinux (Pentest)
+Ubuntu
+
+Servidor Apache: programa que gerencia as paginas web (envia uma cópia do site para a máquina)
+
+Protocolo: São regras de comunicação
+Exemplo: HTTP
+
+Portas de comunicação
+Nmap: software que realiza scan da porta 
+Latência: tempo entre a comunicação da máquina com o servidor
+TTL: time to leave (limite de equipamentos que um pacote pode passar durante a jornada ida e volta servidor-máquina)
+comando tracert: rastreia a rota de um pacote

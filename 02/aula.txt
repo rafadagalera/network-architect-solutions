@@ -1,0 +1,25 @@
+ARPANET: rede militar americana na guerra fria
+INTERNET: rede pública
+
+criptografia:
+cripto: esconder
+grafia: escrita
+
+Wireshark: é um programa que analisa o tráfego de rede, e o organiza 
+por protocolos.
+
+IOT(internet of things):
+integração de objetos diversos com a internet
+
+ipv4/ipv6: identificador de um dispositivo
+ip público e privado
+
+DNS(domain name system): converte nomes de domínip em endereço de ip
+
+wearables: dispositivos conectados a internet que podem ser vestidos i.e. relógio
+
+rede PAN(Personal Area Network)
+
+CISCO packet tracer: softare pra testar redes
+
+sha256: criptografia utilizada modernamente
